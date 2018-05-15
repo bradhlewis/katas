@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "katas\\": "src"
+            "Katas\\": "src"
         }
     },
     "require": {},
