@@ -1,5 +1,5 @@
 suites:
     default:
-        namespace: katas
-        psr4_prefix: katas
+        namespace: Katas
+        psr4_prefix: Katas
 
